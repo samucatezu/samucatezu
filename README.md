@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Almeida</h1>  
-<h3 align="center">An active FullStack developer from Brazil</h3>  
+<h3 align="center">An active Backend developer from Brazil</h3>  
   
 - 🌱 I’m currently learning new skills at **Santander Bootcamp | Fullstack Developer and Everis New Talents - Java**  
   
