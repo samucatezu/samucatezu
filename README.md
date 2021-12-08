@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel Almeida</h1>  
 <h3 align="center">An active Backend developer intern from Brazil</h3>  
   
-- 🌱 I’m currently learning new skills at **Santander Bootcamp | Fullstack Developer and Capgemini Fullstack Java and Angular** and at **Universidade Paulista**  
+- 🌱 I’m currently learning new skills at **My intern job at GBM tech and freecodecamp.org** and at **Universidade Paulista**  
   
 - 👨‍💻 All of my projects are available at [https://github.com/samucatezu?tab=repositories](https://github.com/samucatezu?tab=repositories)  
   
-- 💬 Ask me about **Books, Java and Python**  
+- 💬 Ask me about **Books, Angular and NodeJS**  
   
 - 📫 How to reach me **barbosasamuel24@gmail.com**  
   
