@@ -37,3 +37,7 @@
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samucatezu&theme=dark" alt="samucatezu" /></p>
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=samucatezu&width=820&show-other-skills=true"
+/>
+
