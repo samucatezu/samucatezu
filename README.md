@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Almeida</h1>  
-<h3 align="center">An active Backend developer intern from Brazil</h3>  
+<h3 align="center">An active Full Stack developer intern from Brazil</h3>  
+
+- Take a look at my newest [Portfolio website](https://samucatezu.github.io/)
   
 - 🌱 I’m currently learning new skills at **My intern job at GBM tech and freecodecamp.org** and at **Universidade Paulista**  
   
