@@ -3,7 +3,7 @@
 
 - Take a look at my newest [Portfolio website](https://samucatezu.github.io/)
   
-- 🌱 I’m currently learning new skills at **My intern job at GBM tech and freecodecamp.org** and at **Universidade Paulista**  
+- 🌱 I’m currently learning **React**, new skills at **My intern job at GBM tech and freecodecamp.org** and at **Universidade Paulista**  
   
 - 👨‍💻 All of my projects are available at [https://github.com/samucatezu?tab=repositories](https://github.com/samucatezu?tab=repositories)  
   
