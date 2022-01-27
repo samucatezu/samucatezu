@@ -4,7 +4,7 @@
 - Take a look at my newest [Portfolio website](https://samucatezu.github.io/)
 PS: Only for desktop for now
   
-- 🌱 I’m currently learning more **JavaScript** and  **NodeJS**, new skills at **My intern job at GBM tech and freecodecamp.org** and at **Universidade Paulista**  
+- 🌱 I’m currently learning more about **JavaScript**, **NodeJS**, new skills at **My internship, at freecodecamp.org** and at **Universidade Paulista**  
   
 - 👨‍💻 All of my projects are available at [https://github.com/samucatezu?tab=repositories](https://github.com/samucatezu?tab=repositories)  
   
