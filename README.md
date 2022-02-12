@@ -4,7 +4,7 @@
 - Take a look at my newest [Portfolio website](https://samucatezu.github.io/)
 PS: Only for desktop for now
   
-- 🌱 I’m currently learning more about **JavaScript**, **NodeJS**, new skills at **My internship, at freecodecamp.org** and at **Universidade Paulista**  
+- 🌱 I’m currently learning more about **Java*, **JavaScript**, **NodeJS**, new skills at **Universidade Paulista**  
   
 - 👨‍💻 All of my projects are available at [https://github.com/samucatezu?tab=repositories](https://github.com/samucatezu?tab=repositories)  
   
@@ -14,6 +14,7 @@ PS: Only for desktop for now
   
 - ⚡ Fun fact **I'm diabetic and calisthenic**  
   
+ - - -
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://linkedin.com/in/samuel-almeida-ads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-almeida-ads" height="30" width="40" /></a>  
@@ -31,6 +32,8 @@ PS: Only for desktop for now
 
   
 <div>
+  
+ - - -
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samucatezu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> 
 
@@ -38,11 +41,16 @@ PS: Only for desktop for now
   
 </div>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samucatezu&theme=dark" alt="samucatezu" /></p>
-
-<a href="https://profile.codersrank.io/user/samucatezu/">
+ - - -
+  
+<details>
+    <summary><Font Size = "10"><strong>Evolução</strong></Font></summary>
+  <ul>
+  <a href="https://profile.codersrank.io/user/samucatezu/">
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=samucatezu&width=820&show-other-skills=true"
 />
-</a>  
+</a>
+  </ul>
+  
 
