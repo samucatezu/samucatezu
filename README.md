@@ -4,13 +4,13 @@
 - Take a look at my newest [Portfolio website](https://samucatezu.github.io/)
 PS: Only for desktop for now
   
-- 🌱 I’m currently learning more about **Java**, **JavaScript**, **NodeJS** and new skills at **Universidade Paulista**  
+- 🌱 I’m currently learning more about **Mockito, Junit, Docker and new skills at **Universidade Paulista**  
   
 - 👨‍💻 All of my projects are available at [https://github.com/samucatezu?tab=repositories](https://github.com/samucatezu?tab=repositories)  
   
-- 💬 Ask me about **Books, Angular and NodeJS**  
+- 💬 Ask me about **Books, Spring boot and RestAPIs**  
   
-- 📫 How to reach me **barbosasamuel24@gmail.com**  
+- 📫  Reach me **barbosasamuel24@gmail.com**  
   
 - ⚡ Fun fact **I'm diabetic and calisthenic**  
   
