@@ -1,8 +1,33 @@
 <h1 align="center">Hi 👋, I'm Samuel Almeida</h1>  
 <h3 align="center">An active Full Stack developer intern from Brazil</h3>  
+<details>
+    <summary><Font Size = "10"><strong>PT-BR Apresentação</strong></Font></summary>
+  <ul>
+  
+- 🌱 Estou aprendendo mais sobre **Mockito, Junit, Docker e obtendo novas habilidades na **Universidade Paulista**  
+  
+- 👨‍💻 Todos os meus projetoes estao disponiveis aqui -> [https://github.com/samucatezu?tab=repositories](https://github.com/samucatezu?tab=repositories)  
+  
+- 💬 Pergunte-me sobre **Livros, Spring boot e RestAPIs**  
+  
+- 📫 Entre em contato -> **barbosasamuel24@gmail.com**  
+    
+    <details>
+      <summary><Font Size = "10"><strong>Evolução</strong></Font></summary>
+         <ul>
+          <a href="https://profile.codersrank.io/user/samucatezu/">
+            <img
+              src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=samucatezu&width=820&show-other-skills=true"
+            />
+          </a>
+        </ul>
+    </details>
+    
+    </details>
 
-- Take a look at my newest [Portfolio website](https://samucatezu.github.io/)
-PS: Only for desktop for now
+<details>
+    <summary><Font Size = "10"><strong>EN Presentation</strong></Font></summary>
+  <ul>
   
 - 🌱 I’m currently learning more about **Mockito, Junit, Docker and new skills at **Universidade Paulista**  
   
@@ -12,7 +37,19 @@ PS: Only for desktop for now
   
 - 📫  Reach me **barbosasamuel24@gmail.com**  
   
-- ⚡ Fun fact **I'm diabetic and calisthenic**  
+  <details>
+      <summary><Font Size = "10"><strong>Evolução</strong></Font></summary>
+         <ul>
+          <a href="https://profile.codersrank.io/user/samucatezu/">
+            <img
+              src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=samucatezu&width=820&show-other-skills=true"
+            />
+          </a>
+        </ul>
+    </details>
+  </details>
+    
+
   
  - - -
 <h3 align="left">Connect with me:</h3>  
@@ -43,14 +80,5 @@ PS: Only for desktop for now
   
  - - -
   
-<details>
-    <summary><Font Size = "10"><strong>Evolução</strong></Font></summary>
-  <ul>
-  <a href="https://profile.codersrank.io/user/samucatezu/">
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=samucatezu&width=820&show-other-skills=true"
-/>
-</a>
-  </ul>
-  
+
 
