@@ -4,9 +4,9 @@
     <summary><Font Size = "10"><strong>PT-BR Apresentação</strong></Font></summary>
   <ul>
   
-- 🌱 Estou aprendendo mais sobre **Mockito, Junit, Docker e obtendo novas habilidades na **Universidade Paulista**  
+- 🌱 Estou aprendendo mais sobre **Mockito, Junit, Docker e obtendo novas habilidades** na **Universidade Paulista**  
   
-- 👨‍💻 Todos os meus projetoes estao disponiveis aqui -> [https://github.com/samucatezu?tab=repositories](https://github.com/samucatezu?tab=repositories)  
+- 👨‍💻 Todos os meus projetos estao disponiveis aqui -> [https://github.com/samucatezu?tab=repositories](https://github.com/samucatezu?tab=repositories)  
   
 - 💬 Pergunte-me sobre **Livros, Spring boot e RestAPIs**  
   
@@ -29,7 +29,7 @@
     <summary><Font Size = "10"><strong>EN Presentation</strong></Font></summary>
   <ul>
   
-- 🌱 I’m currently learning more about **Mockito, Junit, Docker and new skills at **Universidade Paulista**  
+- 🌱 I’m currently learning more about **Mockito, Junit, Docker and new skills** at **Universidade Paulista**  
   
 - 👨‍💻 All of my projects are available at [https://github.com/samucatezu?tab=repositories](https://github.com/samucatezu?tab=repositories)  
   
@@ -38,7 +38,7 @@
 - 📫  Reach me **barbosasamuel24@gmail.com**  
   
   <details>
-      <summary><Font Size = "10"><strong>Evolução</strong></Font></summary>
+      <summary><Font Size = "10"><strong>Evolution</strong></Font></summary>
          <ul>
           <a href="https://profile.codersrank.io/user/samucatezu/">
             <img
