@@ -66,6 +66,6 @@
 </div>
   
  - - -
-  
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9cb1d772-b088-4ccb-b3aa-80b57bacc960" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
