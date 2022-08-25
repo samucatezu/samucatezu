@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Almeida</h1>  
-<h3 align="center">An active Full Stack developer intern from Brazil</h3>  
+<h3 align="center">An active Back End developer from Brazil</h3>  
 <details>
     <summary><Font Size = "10"><strong>PT-BR Apresentação</strong></Font></summary>
   <ul>
