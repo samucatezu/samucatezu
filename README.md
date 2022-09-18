@@ -66,6 +66,14 @@
 </div>
   
  - - -
-  [Credly - Certificações](https://www.credly.com/users/samucatezu/badges)
+
+## Certifications and badges
+<div style="display: flex; gap: 10px;">
+<a href="https://www.credly.com/badges/9cb1d772-b088-4ccb-b3aa-80b57bacc960" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="110px" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/44856a40-3c42-4e6d-bad1-094a43e0f97c/badges/2612116" target="_blank"><img src="https://cdn.qwiklabs.com/FFHSBIAwP4ziGGUzd1PbSHi9UFtXfO1lX%2Fi7qqDi0pM%3D" height="110px" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/44856a40-3c42-4e6d-bad1-094a43e0f97c/badges/2605622" target="_blank"><img src="https://cdn.qwiklabs.com/0cjQcQ%2BepwN%2FcSWdi4Le2U1Znq2X5cEdjYaqYbGlZQA%3D" height="110px" /></a>
+
+</div>
+
 
 
