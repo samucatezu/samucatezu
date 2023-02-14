@@ -70,12 +70,16 @@
 ## Certifications and badges
 <div style="display: flex; gap: 10px;">
 <a href="https://www.credly.com/badges/9cb1d772-b088-4ccb-b3aa-80b57bacc960" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="110px" /></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/44856a40-3c42-4e6d-bad1-094a43e0f97c/badges/2612116" target="_blank"><img src="https://cdn.qwiklabs.com/FFHSBIAwP4ziGGUzd1PbSHi9UFtXfO1lX%2Fi7qqDi0pM%3D" height="110px" /></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/44856a40-3c42-4e6d-bad1-094a43e0f97c/badges/2605622" target="_blank"><img src="https://cdn.qwiklabs.com/0cjQcQ%2BepwN%2FcSWdi4Le2U1Znq2X5cEdjYaqYbGlZQA%3D" height="110px" /></a>
+    <a href="https://www.credly.com/earner/earned/badge/b152d2e7-42b2-4142-a0bc-8fd0d9134c06" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="110px" /></a>
+    <a href="https://www.credly.com/earner/earned/badge/d702a0a6-714a-49ee-8801-92bd89392ebf" target="_blank"><img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" height="110px" /></a>
+    <a href="https://www.credly.com/earner/earned/badge/9b379ecb-23f1-4543-88d0-0d54b2b62528" target="_blank"><img src="https://images.credly.com/size/340x340/images/1f6951b1-42c1-4cd5-88ff-3492553c21e3/image.png" height="110px" /></a>
+    <a href="https://www.credly.com/earner/earned/badge/21a12313-4fb0-4f22-bcdd-864ef79805d8" target="_blank"><img src="https://images.credly.com/size/340x340/images/0bf5b617-2f10-4bff-954e-db6d119fdd53/image.png" height="110px" /></a>
+    <a href="https://www.credly.com/earner/earned/badge/8195bb84-de63-4d70-abb3-11da525eef08" target="_blank"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="110px" /></a>
+    <a href="https://www.credly.com/earner/earned/badge/9b204f8b-74a1-4353-9011-67ad8cc8921c" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="110px" /></a>
+    <a href="https://www.credly.com/badges/9cb1d772-b088-4ccb-b3aa-80b57bacc960" target="_blank"><img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" height="110px" /></a>
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samucatezu)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
