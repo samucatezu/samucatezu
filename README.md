@@ -77,6 +77,7 @@
     <a href="https://www.credly.com/earner/earned/badge/8195bb84-de63-4d70-abb3-11da525eef08" target="_blank"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="110px" /></a>
     <a href="https://www.credly.com/earner/earned/badge/9b204f8b-74a1-4353-9011-67ad8cc8921c" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="110px" /></a>
     <a href="https://www.credly.com/badges/9cb1d772-b088-4ccb-b3aa-80b57bacc960" target="_blank"><img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" height="110px" /></a>
+    <a href="https://www.credential.net/029b705a-8442-4b5e-944c-2487a2686843#gs.tj77nq" target="_blank"><img src="https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/59486i420FF6805E84E35A?v=v2" height="110px" /></a>
 
 </div>
 
